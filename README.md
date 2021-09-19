@@ -6,10 +6,12 @@
 
 
 LBE NCC
--Achmad Nashruddin R
--Antonio Taifan Montana
--Muhammad Fadli Azhar
-<!---
+<ul>
+<li>Achmad Nashruddin R</li>
+<li>Antonio Taifan Montana</li>
+<li>Muhammad Fadli Azhar</li>
+</ul>
+  <!---
 achmadnr21/achmadnr21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
