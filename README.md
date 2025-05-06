@@ -50,8 +50,12 @@ I'm a curious soul who loves building everything from **efficient backend servic
 
 ## 🌎 Let's Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/achmadnr9)
-- 📫 Email me at: `test@email.com`
+## 🌎 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/achmadnr9)  
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram&logoColor=white)](https://instagram.com/achmadnr9)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0e76a8?logo=internet-explorer)](#)  
+[![Email](https://img.shields.io/badge/Email-Send-red?logo=gmail)](mailto:your@email.com)
 
 ---
 > “Great engineering is born from curiosity, passion, and the courage to build what doesn’t exist yet.”
